@@ -17,7 +17,7 @@ JavaScript
 
 
 <h2> CREDITS </h2>
-----------------------
-<h3> ~> Kaushtub Gautam </h3> ( Discord id -> AQUAKG#4077)
-<h3> ~> Kaushtub Gautam </h3> ( Discord id -> AQUAKG#4077)
-<h3> ~> Kaushtub Gautam </h3> ( Discord id -> AQUAKG#4077)
+
+[FOUNDER] <h3> ~> Ronit Khanna </h3> 
+[CO-FOUNDER] <h3> ~> Kaushtub Gautam </h3> 
+[DATA MANAGER] <h3> ~> Aarav Sharma </h3> 
