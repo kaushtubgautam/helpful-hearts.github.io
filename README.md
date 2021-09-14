@@ -18,6 +18,6 @@ JavaScript
 
 <h2> CREDITS </h2>
 
-[FOUNDER] <h3> ~> Ronit Khanna </h3> 
-[CO-FOUNDER] <h3> ~> Kaushtub Gautam </h3> 
-[DATA MANAGER] <h3> ~> Aarav Sharma </h3> 
+<h3> [FOUNDER]~> Ronit Khanna </h3> 
+<h3> [CO-FOUNDER]~> Kaushtub Gautam </h3> 
+<h3> [DATA MANAGER]~> Aarav Sharma </h3> 
