@@ -26,3 +26,11 @@ JavaScript
 <h3> [FOUNDER]~> Ronit Khanna </h3> 
 <h3> [CO-FOUNDER]~> Kaushtub Gautam </h3> 
 <h3> [DATA MANAGER]~> Aarav Sharma </h3> 
+
+
+  <p> <h1> How to contact us? </h1> 
+<h4> Reach us with our mail id :- </h4>
+```yaml
+kaushtubkg@gmail.com
+```
+</p>
